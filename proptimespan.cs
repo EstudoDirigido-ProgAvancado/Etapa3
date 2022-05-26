@@ -1,3 +1,5 @@
+Import System;
+
 TimeSpan t1 = TimeSpan.MaxValue;
 TimeSpan t2 = TimeSpan.MinValue;
 TimeSpan t3 = TimeSpan.Zero;
