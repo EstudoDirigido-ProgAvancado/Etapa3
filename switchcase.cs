@@ -1,3 +1,4 @@
+Import System;
 
 Console.WriteLine("Day: " + day);
 int x = int.Parse(Console.ReadLine());
