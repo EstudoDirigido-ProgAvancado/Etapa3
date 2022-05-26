@@ -1,3 +1,5 @@
+Import System;
+
 string original = "abcde FGHIJ ABC abc DEFG ";
 string s1 = original.ToUpper();
 string s2 = original.ToLower();
